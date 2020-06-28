@@ -2,8 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>束带结发收快递费</h2>
-    <div>first 第三方教室里打开发牢骚</div>
-    <div>Second 似懂非懂时间飞逝</div>
+  <div>First sldfjs</div>
+    
   </div>
 </template>
 
