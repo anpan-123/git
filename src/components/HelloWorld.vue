@@ -8,6 +8,8 @@
 
     <h2>奥斯卡加入一位UR围殴返回的是</h2>
     <div>123</div>
+
+    <div>4 5 6</div>
   </div>
 </template>
 
